@@ -73,7 +73,7 @@ export function New() {
     })
 
     alert("Nota criada com sucesso!")
-    navegate(-1)
+    navigate(-1)
   }
   
 
